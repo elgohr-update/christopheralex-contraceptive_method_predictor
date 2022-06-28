@@ -1,4 +1,5 @@
-# Contraceptive Method Predictor
+[![pages-build-deployment](https://github.com/christopheralex/contraceptive_method_predictor/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/christopheralex/contraceptive_method_predictor/actions/workflows/pages/pages-build-deployment)
+# Contraceptive Method Predictor 
 
 -   Authors: Christopher Alexander, Yik Hong Chan, Abhiket Gaurav, Valli A
 
